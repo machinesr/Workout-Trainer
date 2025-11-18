@@ -30,7 +30,7 @@ Unlike simple repetition counters, this tool monitors movement tempo (concentric
 
 **Built with Python**, using:
 
-* Python 3.x
+* Python 3.12
 * OpenCV (opencv-python)
 * MediaPipe
 * NumPy
