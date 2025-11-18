@@ -1,5 +1,12 @@
 # AI Personal Trainer
 
+> **Version 2 Released**
+>
+> A more user-friendly version with full frontend integration is now available:
+> **PermaFit v2** — [https://github.com/5calvinw/PermaFit](https://github.com/5calvinw/PermaFit)
+>
+> This repository represents **Version 1**, built fully in VSCode using OpenCV and MediaPipe, focusing on CV logic and exercise analysis.
+
 ## Overview
 
 The **AI Personal Trainer** is a computer vision application designed to assist users in performing physical exercises with correct form and timing. Using MediaPipe Pose estimation and OpenCV, it analyzes real-time video to track body landmarks, calculate joint angles, and provide immediate visual feedback.
